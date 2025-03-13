@@ -1,0 +1,26 @@
+Titluri:
+1. Aplicatie WEB pentru prezicerea sansei de castig a unui joc/meci League of Legends
+2. Invatarea automata a unui sistem pentru prezicerea sansei de castig a unui meci LoL
+3. Interfata WEB de vizualizare a statisticilor jucatorilor de League of Legends
+4. AI.GG (nume pentru aplicatie)
+5. LoLRates
+6. GGStats
+7. LoLWEB.AI
+
+sistem predictie sanse de castig intr un meci lol
+
+
+
+
+Api-ul live ne ofera prea putine informatii pentru a putea creea un ml sa ne prezica rata de castig.
+avem api local care ne ofera cateva informatii care putem spune ca ar fi de ajuns, insa acesta este local, deci partea de web nu are nici o relevanta. ar trebui ca eu sa hostez aplicatia web si sa ma aflu intrun meci pentru a lua acele informatii
+as putea face o aplicatie cu gui care foloseste aceste date si imi returneaza sansa de castig.
+
+pentru antrenarea ml-ului va trebui sa scot un nr mare de jocuri (aprox 10k) api-ul are un rate limit de 100rq/2min
+
+
+
+1. clarific obiectivele proiectului (definire proiect )
+2. documentatie incep partea teoretica/practica
+
+
